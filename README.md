@@ -14,8 +14,8 @@
 
 ## <span id="jump1"> Visualization of Deep learning </span>
 
-| Publication Name | Publication Category | Publication website | Core Ideas |
-| ---------------- | -------------------- | ------------------- | ---------- |
+| Publication Name | Category | Publication website | Core Ideas |
+| ---------------- | -------- | ------------------- | ---------- |
 | Learning Deep Features for Discriminative Localization | DL-Interpretation | https://arxiv.org/pdf/1512.04150.pdf | Through GAP to activate the biggest contribution parts |
 | Network Dissection: Quantifying Interpretability of Deep Visual Representations | DL-Interpretation | http://netdissect.csail.mit.edu/ | Under-Investigating |
 
@@ -24,6 +24,14 @@
 
 ## <span id="jump2"> DL in Medical image processing </span>
 
+| Publication Name | Category | Publication website | Core Ideas |
+| ---------------- | -------- | ------------------- | ---------- |
+
+
 --------------------------------------------------------------------
 
 ## <span id="jump3"> DL models with potential </span>
+
+| Publication Name | Category | Publication website | Core Ideas |
+| ---------------- | -------- | ------------------- | ---------- |
+

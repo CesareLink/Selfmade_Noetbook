@@ -1,6 +1,7 @@
 # Selfmade Notebook
 
 * This repository is made for take notes of papers, blogs, conferences or presentations that I have investigated and interested in.
++ Written by Yanli Li, [Github Link](https://github.com/CesareLink)
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Category
 

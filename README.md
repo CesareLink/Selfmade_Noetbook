@@ -4,6 +4,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Category
 
+* Visualization of Deep learning
+
+* DL in Medical image processing
+
+* DL models with potential
+
+--------------------------------------------------------------------
 
 ## Visualization of Deep learning
 

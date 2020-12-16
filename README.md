@@ -12,8 +12,12 @@
 
 --------------------------------------------------------------------
 
-##  <span id="jump1"> Visualization of Deep learning </span>
+## <span id="jump1"> Visualization of Deep learning </span>
 
-## DL in Medical image processing
+--------------------------------------------------------------------
 
-## DL models with potential
+## <span id="jump2"> DL in Medical image processing </span>
+
+--------------------------------------------------------------------
+
+## <span id="jump3"> DL models with potential </span>

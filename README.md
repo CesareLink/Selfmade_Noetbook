@@ -21,8 +21,8 @@
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
-| Learning Deep Features for Discriminative Localization | DL-Interpretation | https://arxiv.org/pdf/1512.04150.pdf | CAM, Through GAP to activate the biggest contribution parts | [Link](https://github.com/CesareLink/Selfmade_Noetbook/blob/main/Visualization_of_DL/Learning%20Deep%20Features%20for%20Discriminative%20Localization) |
-| Network Dissection: Quantifying Interpretability of Deep Visual Representations | DL-Interpretation | http://netdissect.csail.mit.edu/ | Under-Investigating | Under-Construction|
+| Learning Deep Features for Discriminative Localization | DL-Interpretation | arxiv.org/pdf/1512.04150.pdf | Through GAP to activate the biggest contribution parts | [Link](https://github.com/CesareLink/Selfmade_Noetbook/blob/main/Visualization_of_DL/Learning%20Deep%20Features%20for%20Discriminative%20Localization) |
+| Network Dissection: Quantifying Interpretability of Deep Visual Representations | DL-Interpretation | netdissect.csail.mit.edu/ | Under-Investigating | Under-Construction|
 
 
 --------------------------------------------------------------------
@@ -30,7 +30,8 @@
 ## <span id="jump2"> DL in Medical image processing </span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
-| ---------------- | -------- | ------------------- | ---------- |  --------------- |
+| U-Net: Convolutional Networks for Biomedical Image Segmentation | U-Net | arxiv.org/abs/1505.04597 | The jump connection in down and up sampling, tranfer the feature maps | Under construction |
+
 
 
 --------------------------------------------------------------------

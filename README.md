@@ -15,6 +15,8 @@
 
 * [Transfer learning](#jump5)
 
+* [Generative adversarial networks](#jump6)
+
 --------------------------------------------------------------------
 
 ## <span id="jump1"> Visualization of Deep learning </span>
@@ -66,3 +68,13 @@
 | Supervised representation learning: transfer learning with deep autoencoders | Transfer learning | arxiv.org/pdf/1412.3474.pdf | Auto-encoder |  Under-Investigating |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
 
+
+
+
+--------------------------------------------------------------------
+
+## <span id="jump6"> Generative adversarial networks </span>
+
+| Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
+| ---------------- | -------- | ------------------- | ---------- |  --------------- |
+| Medical Image Synthesis with Context-Aware Generative Adversarial Networks | GAN - Medical | arxiv.org/abs/1612.05362v1 | GAN |  Under-Investigating |

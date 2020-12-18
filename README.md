@@ -5,21 +5,21 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Category
 
-* [Visualization of Deep learning](#jump1)
+* [Visualization of Deep learning - 深度学习可视化研究](#jump1)
 
-* [DL in Medical image processing](#jump2)
+* [DL in Medical image processing - 深度学习&医学图像处理](#jump2)
 
-* [DL models with potential](#jump3)
+* [DL models with potential - 潜在可能用到的模型](#jump3)
 
-* [Few-shot learning](#jump4)
+* [Few-shot learning - 小样本学习](#jump4)
 
-* [Transfer learning](#jump5)
+* [Transfer learning - 迁移学习](#jump5)
 
-* [Generative adversarial networks](#jump6)
+* [Generative adversarial networks - 生成对抗网络](#jump6)
 
 --------------------------------------------------------------------
 
-## <span id="jump1"> Visualization of Deep learning </span>
+## <span id="jump1"> Visualization of Deep learning - 深度学习可视化研究</span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
@@ -29,7 +29,7 @@
 
 --------------------------------------------------------------------
 
-## <span id="jump2"> DL in Medical image processing </span>
+## <span id="jump2"> DL in Medical image processing - 深度学习&医学图像处理</span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
@@ -40,7 +40,7 @@
 
 --------------------------------------------------------------------
 
-## <span id="jump3"> DL models with potential </span>
+## <span id="jump3"> DL models with potential - 潜在可能用到的模型</span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
@@ -48,7 +48,7 @@
 
 --------------------------------------------------------------------
 
-## <span id="jump4"> Few-shot learning </span>
+## <span id="jump4"> Few-shot learning - 小样本学习</span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
@@ -58,7 +58,7 @@
 
 --------------------------------------------------------------------
 
-## <span id="jump5"> Transfer learning </span>
+## <span id="jump5"> Transfer learning -迁移学习</span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
@@ -73,7 +73,7 @@
 
 --------------------------------------------------------------------
 
-## <span id="jump6"> Generative adversarial networks </span>
+## <span id="jump6"> Generative adversarial networks -生成对抗网络</span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |

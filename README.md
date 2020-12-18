@@ -30,7 +30,9 @@
 ## <span id="jump2"> DL in Medical image processing </span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
+| ---------------- | -------- | ------------------- | ---------- |  --------------- |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | U-Net | arxiv.org/abs/1505.04597 | The jump connection in down and up sampling, tranfer the feature maps | Under construction |
+| ---------------- | -------- | ------------------- | ---------- |  --------------- |
 
 
 

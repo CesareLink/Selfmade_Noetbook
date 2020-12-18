@@ -21,7 +21,7 @@
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
-| Learning Deep Features for Discriminative Localization | DL-Interpretation | https://arxiv.org/pdf/1512.04150.pdf | Through GAP to activate the biggest contribution parts | [Link](https://github.com/CesareLink/Selfmade_Noetbook/blob/main/Visualization_of_DL/Learning%20Deep%20Features%20for%20Discriminative%20Localization) |
+| Learning Deep Features for Discriminative Localization | DL-Interpretation | https://arxiv.org/pdf/1512.04150.pdf | CAM, Through GAP to activate the biggest contribution parts | [Link](https://github.com/CesareLink/Selfmade_Noetbook/blob/main/Visualization_of_DL/Learning%20Deep%20Features%20for%20Discriminative%20Localization) |
 | Network Dissection: Quantifying Interpretability of Deep Visual Representations | DL-Interpretation | http://netdissect.csail.mit.edu/ | Under-Investigating | Under-Construction|
 
 

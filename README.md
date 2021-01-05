@@ -85,7 +85,7 @@
 
 --------------------------------------------------------------------
 
-## <span id="jump7"> DL models with potential - 潜在可能用到的模型</span>
+## <span id="jump7"> Pyecharts - HTML可视图 </span>
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |

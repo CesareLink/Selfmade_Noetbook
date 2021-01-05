@@ -5,7 +5,7 @@ Echarts derives from the foreend data visualization group of Baidu, based on htm
 
 
 ## Basic information
-![The architecture of echarts]()
+![The architecture of echarts](https://github.com/CesareLink/Selfmade_Noetbook/blob/main/Visualization/Echarts.png)
 
 The Echarts contains three main part: the GraphType, the Component, the BasicRepository.
 The GraphType contains: Bar, Line, Scatter, K, Pie, Radar, Chord, Force, Map, Gauge, Funnel, Island

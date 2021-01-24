@@ -101,3 +101,4 @@
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
 | Training Region-based Object Detectors with Online Hard Example Mining | Hard mining | arxiv.org/pdf/1604.03540.pdf | Hard mining |  Under-Investigating |
+| Focal Loss for Dense Object Detection | Loss design | arxiv.org/abs/1708.02002 | Focal loss |  Under-Investigating |

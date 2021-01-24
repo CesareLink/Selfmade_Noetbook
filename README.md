@@ -19,6 +19,8 @@
 
 * [Pyecharts - HTML可视图](#jump7)
 
+* [Hard mining - 深度学习难分样本挖掘](#jump8)
+
 --------------------------------------------------------------------
 
 ## <span id="jump1"> Visualization of Deep learning - 深度学习可视化研究</span>
@@ -89,3 +91,13 @@
 
 | Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
 | ---------------- | -------- | ------------------- | ---------- |  --------------- |
+
+
+
+--------------------------------------------------------------------
+
+## <span id="jump8"> Hard mining - 深度学习难分样本挖掘</span>
+
+| Publication Name | Category | Publication website | Core Ideas | Link to selfmade |
+| ---------------- | -------- | ------------------- | ---------- |  --------------- |
+| Training Region-based Object Detectors with Online Hard Example Mining | Hard mining | arxiv.org/pdf/1604.03540.pdf | Hard mining |  Under-Investigating |
